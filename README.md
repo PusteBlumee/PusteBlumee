@@ -1,17 +1,12 @@
-<h1 align="center"> I'm Pust3Blume </h1>
+<h1 align="center">I'm Robin</h1>
+<h3 align="center">A fresh backend developer from Germany</h3>
 
-<h2 align="center">
- I´am a fresh Developer in the Dev world.
-</h2>
-<h3 aling="center">
- About Me: 
-</h3>
-  Name: Pust3Blume or Lukee <br>
-  Age: 22 <br>
-  Country: Germany <br>
-  
-  
-  
+-  I’m currently working on my Developer Skills
+
+-  I’m currently learning c#
+
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 
  
  
