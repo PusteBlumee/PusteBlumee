@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center"> I'm Pust3Blume </h1>
 
-<!--
-**PusteBlumee/PusteBlumee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+ I´am a fresh Developer in the Dev world.
+</h2>
+<h3 aling="center">
+ About Me: 
+</h3>
+  Name: Pust3Blume or Lukee <br>
+  Age: 22 <br>
+  Country: Germany <br>
+  
+  
+  
 
-Here are some ideas to get you started:
+ 
+ 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
